@@ -1,0 +1,15 @@
+.dp{
+    background-color:white;
+    
+    padding: 8px;
+    height: 30%;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+
+.dp img{
+
+    height: 100%;
+
+}
